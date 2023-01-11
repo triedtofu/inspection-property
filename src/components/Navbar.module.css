@@ -1,0 +1,14 @@
+.outerBox {
+  display: flex;
+  padding: 1rem;
+  background-color: #3c847b;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 66px;
+}
+
+.logo {
+  display: inline-block;
+  width: 50%;
+}

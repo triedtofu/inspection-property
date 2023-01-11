@@ -1,0 +1,28 @@
+.helper {
+  color: #b3b3b3;
+  margin-top: 20px;
+  width: 120%;
+}
+.searchBackground {
+  align-items: center;
+  height: 100px;
+  width: 100%;
+  justify-content: center;
+}
+
+/* .searchBox {
+  display: flex;
+}
+
+.searchAndButton {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.wholeSearchBar {
+  display: flex;
+  margin-top: 30%;
+  text-align: center;
+  justify-content: center;
+} */
